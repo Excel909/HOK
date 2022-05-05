@@ -60,6 +60,11 @@ body{
     text-transform: capitalize;
 }
 
+.butt-1 a{
+    color:white;
+    text-decoration:none;
+}
+
 .butt-1:hover{
     background:lightgrey;
     transition-duration: 1s;
